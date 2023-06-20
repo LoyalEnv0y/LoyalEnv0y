@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @LoyalEnv0y
-- 👀 I’m interested in teaching myself programming. I started learning programming in Nov 2020 with Golang.
-- 🌱 I’m currently learning Web development with Node.js, Express.js, and React
+- 👀 I am interested in teaching myself programming. I started learning programming in Nov 2020 with Golang.
+- 🏫 I am a computer programming student in İzmir University of Economics
+- 🌱 I am currently learning Web development with Node.js and Express.js
+- 🎯 I want to learn Next.js, Nest.js and React in the future
 - 📫 You can reach me via email: cetin200012@gmail.com
