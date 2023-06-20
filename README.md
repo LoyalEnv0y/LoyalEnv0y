@@ -3,4 +3,5 @@
 - 🏫 I am a computer programming student in İzmir University of Economics
 - 🌱 I am currently learning Web development with Node.js and Express.js
 - 🎯 I want to learn Next.js, Nest.js and React in the future
+- 🏢 Currently, I seek internships and junior positions.
 - 📫 You can reach me via email: cetin200012@gmail.com
